@@ -122,6 +122,11 @@
     margin : 26px auto;
     text-align : center;
     }
+
+    .footer p {
+        margin-top: 20px;
+        color: #eee;
+    }
     
     @media screen and (min-width: 584px) {
     .newsletter form {
